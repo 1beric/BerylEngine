@@ -1,0 +1,3 @@
+attrs;position
+Sampler2DUniform;tex;white,0
+FloatUniform;brightness;1

@@ -1,0 +1,12 @@
+Father Rhinehardt
+speed;     default=3; list=-1,2,3,3,4,5,6,7,7
+might;     default=3; list=-1,1,2,2,4,4,5,5,7
+sanity;    default=5; list=-1,3,4,5,5,6,7,7,8
+knowledge; default=4; list=-1,1,3,3,4,5,6,6,8
+age=62
+height=5,9
+weight=185
+hobbies=Fencing,Gardening
+birthday=4,29
+color=palette$players$5
+mat=five

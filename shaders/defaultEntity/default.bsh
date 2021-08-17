@@ -1,0 +1,17 @@
+attrs;position,textureCoords,normals
+MatrixUniform;transformationMatrix;identity
+MatrixUniform;projectionMatrix;identity
+MatrixUniform;viewMatrix;identity
+Vec3Uniform;light;0,0,0
+BooleanUniform;pointLight;true
+BooleanUniform;useFakeLighting;false 
+FloatUniform;numberOfRows;1
+Vec2Uniform;offset;0,0
+ColorUniform;color;1,1,1
+ColorUniform;lightColor;1,1,1
+Vec3Uniform;attenuation;1,0,0
+FloatUniform;shineDamper;1
+FloatUniform;reflectivity;.5 
+BooleanUniform;usesSpecularMap;false 
+Sampler2DUniform;modelTexture;white,0
+Sampler2DUniform;specularAndEmissionMap;black,1

@@ -1,0 +1,8 @@
+shader;skybox
+immutable
+SamplerCubeUniform;cubemap1;default,0
+MatrixUniform;projectionMatrix;identity
+ColorUniform;fogColor;1.0,1.0,1.0
+FloatUniform;lowerfog;0.0
+FloatUniform;upperfog;0.0
+MatrixUniform;viewMatrix;identity

@@ -1,0 +1,12 @@
+shader;gui
+mutable
+Sampler2DUniform;image;playButton,0
+ColorUniform;borderColor;0.13333334,0.2,0.4
+ColorUniform;color;1.0,1.0,1.0
+FloatUniform;borderRadius;0.0
+Vec2Uniform;horizontalBounds;164.8,564.8
+FloatUniform;borderWidth;0.0
+FloatUniform;opacity;1.0
+Vec2Uniform;resolution;2048.0,1024.0
+Vec2Uniform;verticalBounds;412.0,612.0
+MatrixUniform;transformationMatrix;identity

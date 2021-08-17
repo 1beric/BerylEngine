@@ -1,0 +1,11 @@
+attrs;position
+Vec2Uniform;horizontalBounds;0,0;noSave
+Vec2Uniform;verticalBounds;0,0;noSave
+Sampler2DUniform;image;white,0
+ColorUniform;color;1,1,1
+FloatUniform;borderRadius;0
+FloatUniform;borderWidth;0
+ColorUniform;borderColor;1,1,1
+FloatUniform;opacity;1
+Vec2Uniform;resolution;1,1
+MatrixUniform;transformationMatrix;identity;noSave

@@ -1,0 +1,7 @@
+package betrayal.tiles;
+
+public enum HouseLayer {
+
+	UPPER, GROUND, BASEMENT, UPPER_GROUND, UPPER_BASEMENT, GROUND_BASEMENT, UPPER_GROUND_BASEMENT
+
+}

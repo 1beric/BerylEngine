@@ -1,0 +1,12 @@
+Darrin "Flash" Williams
+speed;     default=5; list=-1,4,4,4,5,6,7,7,8
+might;     default=3; list=-1,2,3,3,4,5,6,6,7
+sanity;    default=3; list=-1,1,2,3,4,5,5,5,7
+knowledge; default=3; list=-1,2,3,3,4,5,5,5,7
+age=20
+height=5,11
+weight=188
+hobbies=Track,Music,ShakespeareanLiterature
+birthday=6,6
+color=palette$players$2
+mat=two

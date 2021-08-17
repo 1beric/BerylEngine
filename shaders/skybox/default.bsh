@@ -1,0 +1,7 @@
+attrs;position
+MatrixUniform;projectionMatrix;identity
+MatrixUniform;viewMatrix;identity
+SamplerCubeUniform;cubemap1;default,0
+ColorUniform;fogColor;1,1,1
+FloatUniform;lowerfog;0
+FloatUniform;upperfog;0
